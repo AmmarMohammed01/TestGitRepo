@@ -1,8 +1,9 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(204, 255, 0);
 }
 
 h1 {
-    background-color: plum;
+    background-color: rgb(255, 162, 0);
     color: white;
+    text-align: center;
 }
